@@ -214,3 +214,4 @@ OSM_NOMINATIM_BASE_URL=https://nominatim.openstreetmap.org
 2. **Backend Laravel**:
    - Endpoint `/api/nearby-spots` mengembalikan data titik koordinat standar (`latitude`, `longitude`, `name`, `category`).
    - Format koordinat ini standar internasional ISO 6709, sehingga **bisa dibaca secara identik** oleh OpenStreetMap maupun Google Maps.
+

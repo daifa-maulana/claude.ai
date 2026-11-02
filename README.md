@@ -8,7 +8,7 @@
 
 | No | Peran Proyek | Anggota Tim | Tanggung Jawab Utama | Dokumen Panduan Kerja |
 |:---:|---|---|---|---|
-| **1** | **Project Manager (PM)** | *Ketua Tim / Anda* | Sprint backlog, scope project, timeline, sinkronisasi antar tim | [`PRD.md`](./PRD.md), [`TODO.md`](./TODO.md) |
+| **1** | **Project Manager (PM)** | *Ketua Tim / Anda* | Sprint backlog, scope project, timeline, sinkronisasi antar tim | [`PRD.md`](./PRD.md), [`TODO.md`](./TODO.md), [`AI_PROMPTING_PLAYBOOK.md`](./docs/01_project_management/AI_PROMPTING_PLAYBOOK.md) |
 | **2** | **UI/UX Designer & Tester** | *Anggota 2* | Desain wireframe Figma, prototipe interaktif, pengujian SUS | [`USER_FLOWS_AND_WIREFRAMES.md`](./docs/02_ui_ux_testing/USER_FLOWS_AND_WIREFRAMES.md), [`USABILITY_TESTING_SUS.md`](./docs/02_ui_ux_testing/USABILITY_TESTING_SUS.md) |
 | **3** | **Frontend Mobile Developer** | *Anggota 3* | Flutter 3.24+, State Provider, SQLite offline, Device Preview browser | [`FRONTEND_ARCHITECTURE.md`](./docs/04_frontend_mobile/FRONTEND_ARCHITECTURE.md), [`MAPS_INTEGRATION_GUIDE.md`](./docs/04_frontend_mobile/MAPS_INTEGRATION_GUIDE.md) |
 | **4** | **Backend API Developer** | *Anggota 4* | Laravel 11 REST API, MySQL, Sanctum Auth, dataset POI offline pack | [`ERD_DATABASE.md`](./docs/03_backend_api/ERD_DATABASE.md), [`API_SPECIFICATION.md`](./docs/03_backend_api/API_SPECIFICATION.md) |
