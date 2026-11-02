@@ -81,3 +81,4 @@ Skor SUS    | Predikat Huruf | Tingkat Penerimaan | Deskripsi (Adjective)
 
 > **Target Tim CommuteMate**:  
 > **Skor SUS Minimal: $\ge 75.0$ (Grade B+ / Good)** dengan **Completion Rate Tugas $\ge 90\%$**.
+

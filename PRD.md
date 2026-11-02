@@ -88,7 +88,7 @@ Mayoritas aplikasi mobilitas saat ini (*Google Maps, Waze*) didesain **eksklusif
   * ⛽ **SPBU**
   * 🍜 **Tempat Makan**
   * 🏪 **Minimarket / ATM**
-* **Keunggulan**: Bekerja secara **Offline-First** (menggunakan database koordinat lokal pintar tanpa perlu Google API berbayar).
+* **Keunggulan**: Bekerja secara **Offline-First** dengan arsitektur **Hybrid Dual-Engine Maps** (Pilihan default: OpenStreetMap via `flutter_map` bebas biaya dan offline-ready; Opsi kedua: Google Maps Platform SDK jika API Key tersedia).
 
 ### 3.5 Fitur 5: Trip Pocket & Fair Splitter (Uang Saku & Patungan)
 * **Mode Solo Trip**: Memasang limit uang saku harian perjalanan (misal: Rp 150.000). Setiap pengeluaran dicatat dengan 1 tap untuk melihat sisa saldo saku.

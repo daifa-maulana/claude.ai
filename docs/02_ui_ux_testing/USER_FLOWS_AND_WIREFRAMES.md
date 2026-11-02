@@ -199,3 +199,4 @@ flowchart LR
 3. **Curved Wave Bottom Navigation Bar**:
    - 4 Tab Menu: Beranda (Home), Checklist (Packing), Tempat (Nearby), Dompet (Splitter).
    - Floating Action Button (FAB) di tengah dengan warna Cyan `#5BB8F5` untuk aktivasi instan KinetoGuard.
+

@@ -180,3 +180,4 @@ accelerometerEvents.listen((AccelerometerEvent event) {
    - ✅ Selalu gunakan format standar: `color.withOpacity(0.12)`.
 2. **Resource Management**:
    - Semua `StreamSubscription` sensor (GPS & Gyro) wajib di-`cancel()` saat widget di-dispose agar tidak menguras baterai ponsel penumpang.
+
