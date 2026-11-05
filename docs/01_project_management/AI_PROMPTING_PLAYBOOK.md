@@ -153,3 +153,4 @@ Tolong analisis:
 1. **Sebutkan Nama File Dokumen**: Karena semua dokumen sudah di-push ke GitHub (`PRD.md`, `ERD_DATABASE.md`, dll), sebut nama filenya agar AI membaca aturan yang sudah disepakati.
 2. **One Feature at a Time**: Jangan minta AI membuat 7 fitur sekaligus dalam 1 prompt. Buat bertahap per fitur (misal: selesaikan KinetoGuard dulu $\to$ baru lanjut Smart Wake-Up).
 3. **Minta Penjelasan Sederhana**: Jika ada kode rumit yang dibuat AI, selalu tambahkan di akhir: *"Tolong jelaskan secara singkat baris mana yang paling penting agar bisa saya jelaskan saat presentasi ke dosen."*
+
