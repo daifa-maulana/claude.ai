@@ -2,6 +2,8 @@
 > **All-in-One Passenger Utility & Solo Travel Companion**  
 > *Solusi Utilitas Terintegrasi Penumpang: Anti-Mabuk Kendaraan (KinetoGuard), Smart Wake-Up Geofence, Pre-Trip Packing, Emergency Spot Finder, Fair Splitter, dan Solo Safety Guardian.*
 
+👉 **[BACA DI SINI: PANDUAN CARA PENGERJAAN SETIAP ANGGOTA (WORKFLOW_GUIDE.md)](./WORKFLOW_GUIDE.md)** 👈
+
 ---
 
 ## 👥 Struktur Tim & Pembagian Peran (Role Assignment)

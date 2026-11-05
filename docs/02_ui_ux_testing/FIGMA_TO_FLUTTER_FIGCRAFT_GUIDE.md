@@ -91,3 +91,4 @@ Kode hasil generate Figcraft adalah tampilan antarmuka murni (*Pure UI Presentat
 - [ ] **UI/UX**: Memastikan nama layer rapi sebelum diserahkan ke Frontend.
 - [ ] **Frontend**: Meng-export komponen menggunakan Figcraft dan menaruhnya di struktur folder yang sesuai.
 - [ ] **PM**: Mengecek kesesuaian visual hasil run di Chrome (`device_preview`) dengan Figma aslinya.
+
