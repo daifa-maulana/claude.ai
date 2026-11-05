@@ -127,3 +127,4 @@ Menjaga ritme kerja tim, memastikan lingkup proyek tidak keluar jalur, menyelesa
 1. **No Panic Coding**: Jika ada error merah di terminal, jangan panik dan jangan hapus kode sembarangan. Gunakan formula debugging di AI Prompting Playbook.
 2. **Pull Sebelum Push**: Sebelum mengunggah kode baru ke GitHub, selalu lakukan `git pull origin main` untuk menghindari konflik kode dengan rekan tim.
 3. **Offline-First Commitment**: Seluruh fitur utama (anti-mabuk, alarm GPS, checklist) wajib tetap berfungsi meskipun HP dalam mode pesawat atau di daerah tanpa sinyal.
+
